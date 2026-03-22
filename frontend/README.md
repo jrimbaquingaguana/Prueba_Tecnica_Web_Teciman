@@ -22,6 +22,6 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone <https://github.com/jrimbaquingaguana/Prueba_Tecnica_Web_Teciman.git>
+cd <frontend>
 npm install
